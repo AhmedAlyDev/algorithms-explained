@@ -1,4 +1,5 @@
 # Algorithms Explained
+
 A comprehensive repository for exploring algorithms from various resources.
 
 ## Description
@@ -21,22 +22,21 @@ The primary aim of this repository is to offer a well-organized collection of al
 - **grokking-algorithms/**: Contains algorithms from the book "Grokking Algorithms" by Aditya Bhargava.
   - **chapter_01/**: Basic algorithms such as Binary Search.
   - **chapter_02/**: Sorting algorithms like Selection Sort.
-- **another-algorithms-book/**: Placeholder for algorithms from another influential book.
-  - **chapter_01/**: Initial chapter implementations.
-- **common-algorithms/**: A collection of widely-used algorithms that are not specific to any single book or resource.
 
 ## Getting Started
 
 1. **Clone the Repository**:
+
    ```sh
-   git clone https://github.com/YOUR_USERNAME/algorithms-explained.git
+   git clone https://github.com/AhmedAlyDev/algorithms-explained.git
     cd algorithms-explained
    ```
- 2. **Explore and Run Examples**:
-    Navigate to the desired directory and run the example scripts to see the algorithms in action.
- 
- 3. **Contribute**:
-    Feel free to contribute by adding more algorithms, improving existing ones, or expanding the documentation.    
+
+2. **Explore and Run Examples**:
+   Navigate to the desired directory and run the example scripts to see the algorithms in action.
+
+3. **Contribute**:
+   Feel free to contribute by adding more algorithms, improving existing ones, or expanding the documentation.
 
 ## How to Contribute
 
